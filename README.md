@@ -44,5 +44,7 @@
 ---
 
 <p align="center">
-  💼 Open to interesting problems &nbsp;·&nbsp; 📬 <a href="mailto:ricardo@gridsignal.systems">Get in touch</a>
+  💼 Open to interesting problems &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/suvajitlodh/">LinkedIn</a> &nbsp;·&nbsp;
+  <a href="mailto:reachshuvojit@gmail.com">reachshuvojit@gmail.com</a>
 </p>
